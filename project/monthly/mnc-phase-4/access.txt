@@ -1,0 +1,19 @@
+Seller center
+
+- Access
+    - Jira          : https://misteraladin.atlassian.net/jira/software/c/projects/TASC/boards/117
+    - Figma         : https://www.figma.com/file/vYnQ1LqYRbYend3buCzEeo/DS-Seller-Center
+        - username  : dhanialrizky@refactory.id
+        - password  : m26a5nePq.$UwtD
+    - Sev-2
+        - Backend   : https://refactory.sev-2.com/project/view/1240/
+        - Frontend  : https://refactory.sev-2.com/project/view/1241/
+
+---
+
+Mall Performance
+
+- Access
+    - Jira  : https://misteraladin.atlassian.net/jira/software/c/projects/TAMP/boards/116
+    - Sev-2
+        - Frontend  : https://refactory.sev-2.com/project/view/1275/
