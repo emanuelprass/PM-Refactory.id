@@ -1,0 +1,50 @@
+15 June 2022
+
+almer
+bintang
+alun
+ded1
+rozani
+titan
+
+
+burhan
+- 12577, done dev, 1 SP
+- 12495, in progress (PR) 3 SP
+
+rozani
+- https://indikaenergygroup.visualstudio.com/EMI/_workitems/edit/11322 0 SP 
+- https://indikaenergygroup.visualstudio.com/EMI/_workitems/edit/11322 0 SP
+
+umi
+- belom bikin tiket
+-- unit test di iot, ? SP, wip
+
+aulia
+-- unit test di IA/core/client, ? SP, wip
+-- blocker : beberapa function yang ngga bisa di test
+
+ardi
+- https://indikaenergygroup.visualstudio.com/EMI/_workitems/edit/13085, product review
+- https://indikaenergygroup.visualstudio.com/EMI/_workitems/edit/13087, in testing
+- https://indikaenergygroup.visualstudio.com/EMI/_workitems/edit/13089, in testing
+- https://indikaenergygroup.visualstudio.com/EMI/_workitems/edit/13086, in testing
+
+faiz
+- 13194, 0,5 SP, product review 
+- 13086, 0,5 SP, product review
+
+yani
+- 12751, 0.5 SP, prod review 
+- 13217, 0,5 SP, prod review
+- 13248, 0.5 SP, prod review
+- 11822, 0,5 SP, prod review
+
+yogo
+- transfer knowledge
+
+erwin
+- 13215, ? SP, pr
+
+edwin
+- 12466, ? SP, pr
