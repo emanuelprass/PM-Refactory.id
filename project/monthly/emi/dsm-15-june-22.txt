@@ -18,17 +18,16 @@ rozani
 
 umi
 - belom bikin tiket
--- unit test di iot, ? SP, wip
 
 aulia
 -- unit test di IA/core/client, ? SP, wip
 -- blocker : beberapa function yang ngga bisa di test
 
 ardi
-- https://indikaenergygroup.visualstudio.com/EMI/_workitems/edit/13085, product review
-- https://indikaenergygroup.visualstudio.com/EMI/_workitems/edit/13087, in testing
-- https://indikaenergygroup.visualstudio.com/EMI/_workitems/edit/13089, in testing
-- https://indikaenergygroup.visualstudio.com/EMI/_workitems/edit/13086, in testing
+- 13085, ? SP, product review
+- 13087, ? SP, in testing
+- 13089, ? SP, in testing
+- 13086, ? SP, in testing
 
 faiz
 - 13194, 0,5 SP, product review 

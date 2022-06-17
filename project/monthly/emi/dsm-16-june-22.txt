@@ -1,0 +1,64 @@
+15 June 2022
+
+almer
+- belom join, meet sama akbar
+bintang
+- idle, bug fix sudah selesai
+- tiket banyak dipindah ke next sprint, karena mau bikin app baru jadi masih nunggu setup env, app center, dll.
+alun
+- 13238, ? SP, wip
+- 13237, ? SP, wip
+- 12896, 5 SP, tech review
+
+ded1
+- 13253, 0,5 SP, PR
+- 13239, ? SP, WIP
+
+erwin
+- 12661, 2.5 SP, Tech review 
+- 13310, ? SP ,Tech review
+
+edwin
+- 13252, ? SP, WIP
+
+
+---
+FE
+burhan
+- idle
+
+rozani
+- idle
+
+---
+BE
+titan
+
+umi
+- 13319, ? SP, wip
+
+aulia
+- 13308, ? SP, PR
+
+eko ridho
+- 13321, ? SP, done dev
+
+---
+QA
+ardi
+- 13082, ? SP, done
+- 13320, ? SP, wip
+
+faiz
+- 12919, ? SP, done
+
+yani
+- 11322, ? SP, prod review
+- 11455, ? SP, prod review
+- 11463, ? SP, prod review
+- 11318, ? SP, done
+- 11314, ? SP, wip
+
+yogo
+- fixing errror di jenkins
+- share knowledge
