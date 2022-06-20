@@ -1,0 +1,62 @@
+15 June 2022
+
+almer
+- ngga join
+
+bintang
+- check beberapa bug
+
+alun
+- 13306, 0 SP, in progress
+
+ded1
+- telat 15 menit
+- 13340, ? SP, tech review
+
+erwin
+- 13349, ? SP , in progress
+
+edwin
+- ngga join
+
+
+---
+FE
+burhan
+- 13125, ? SP, done dev
+
+rozani
+- ngga join
+
+---
+BE
+titan
+- telat 15 menit
+- 13334, 0SP, wip
+- krisna di s14
+
+umi
+- belom ada tiket, bantuin core client unit test
+
+aulia
+- 13353, merged
+
+eko ridho
+- ngga join
+
+---
+QA
+ardi
+- 13310, ?SP, done testing
+- 13349, ?SP, 
+-- blocker di blockerstack sering timeout
+
+faiz
+- 12141, ?SP, done testing
+- 13259, ?SP, done testing
+
+yani
+- izin meet biofarma
+
+dany
+- blocker belum bisa login pakai crendetial sendiri 
