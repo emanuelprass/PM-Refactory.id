@@ -8,6 +8,13 @@ Seller center
     - Sev-2
         - Backend   : https://refactory.sev-2.com/project/view/1240/
         - Frontend  : https://refactory.sev-2.com/project/view/1241/
+    - Website 
+        - Backoffice develop   : https://develop.d1qhatzrmznrmv.amplifyapp.com/backoffice#/login
+            - Username  : aditya.paramasatya+admin@misteraladin.com
+            - Password  : Aladin123#
+        - Backoffice staging   : https://staging.d1qhatzrmznrmv.amplifyapp.com/backoffice#/login
+            - Username  : adhiardiansyah23@gmail.com
+            - Password  : Aladin123#
 
 ---
 
